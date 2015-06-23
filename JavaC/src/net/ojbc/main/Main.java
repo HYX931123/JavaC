@@ -13,6 +13,7 @@ public class Main {
 		b++;
 
 		System.out.println("a:"+a+" ,b:"+b);
+		System.out.println("**************************");
 	}
 
 }
